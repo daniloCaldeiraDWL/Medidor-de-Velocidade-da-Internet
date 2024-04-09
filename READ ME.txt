@@ -1,0 +1,6 @@
+A ideia do projeto é implementar um sistema que irá abrir de tempos em tempos uma página do navegador, 
+medir a velocidade da internet no momento
+após realizar a medição, deverá salvar em um arquivo ou banco de dados de alguma forma. (proponha algo, uma boa sujestão é o excel ou uma lista no sharepoint)
+
+Após a visualização dos dados deverá ser feita também em python. 
+Escolha uma biblioteca de sua preferência, que seja bonita, usual e muito interessante, para criar os deshboards. 
