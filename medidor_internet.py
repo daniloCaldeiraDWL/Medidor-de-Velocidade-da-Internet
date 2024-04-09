@@ -27,6 +27,8 @@ try:
     # Copia o valor extraído para onde desejar
     print("Valor de speed-value:", velocidade)  # Por exemplo, imprime o valor na tela
 
+    print("Desenvolvido por Danilo")
+
 
 
 except:
